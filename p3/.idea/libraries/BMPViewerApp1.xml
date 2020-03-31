@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BMPViewerApp1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/aula08/bin/ex2/BMPViewerApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

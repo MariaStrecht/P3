@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <file url="file://$PROJECT_DIR$/src/aula08/ex2/BMPView.java" />
+      <file url="file://$PROJECT_DIR$/src/aula11/ex1/LinkedListGeneric.java" />
+      <file url="file://$PROJECT_DIR$/src/aula08/ex2/BMPViewerApp.java" />
+      <file url="file://$PROJECT_DIR$/src/aula08/ex3/Engine.java" />
+    </excludeFromCompile>
+  </component>
+</project>
